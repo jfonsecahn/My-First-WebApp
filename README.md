@@ -36,7 +36,7 @@ Web application developed in **Java** for educational and portfolio purposes.
 
 6. Create the required database schema.
 
-7.Update the connection properties in connection file of the project (located at ).
+7. Update the connection properties in connection file of the project (located at ).
 
 8. Run the project from NetBeans
 
