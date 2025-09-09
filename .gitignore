@@ -1,0 +1,22 @@
+# Directorios de compilación
+/build/
+/dist/
+/nbproject/private/
+
+# Archivos compilados
+*.class
+*.jar
+*.war
+*.ear
+
+# Configuración del IDE
+*.iml
+/.idea/
+*.log
+
+# Configuración de base de datos o credenciales
+config.properties
+
+# Archivos temporales
+*.tmp
+*.bak
