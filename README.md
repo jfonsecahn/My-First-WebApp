@@ -1,4 +1,4 @@
-# 🚀 Proyecto Java Web - [Nombre del proyecto]
+# 🚀 Proyecto Java Web - MiFirstWebApp
 
 Aplicación web desarrollada en **Java** diseñada para fines educativos y de portafolio.
 
