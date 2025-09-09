@@ -20,7 +20,7 @@ Web application developed in **Java** for educational and portfolio purposes.
 
 2. Install Apache Tomcat (version 9 or above recommended)
 
- a. Download from: https://tomcat.apache.org/
+    a. Download from: https://tomcat.apache.org/
 
 3. Follow the installation instructions for your operating system.
 
