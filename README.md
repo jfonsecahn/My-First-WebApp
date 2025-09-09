@@ -44,7 +44,7 @@ Web application developed in **Java** for educational and portfolio purposes.
 
 ## 🌟 Reflection
 
-Instead of showing highly structured, professional code using the latest technologies and best practices; code that I am now capable of writing. I decided to share a project I wrote back in college a piece of code that I am truly proud of.
+Instead of showing highly structured, professional code using the latest technologies and best practices; code that I am now capable of writing. I decided to share a project I wrote back in college, a project containing code that I am truly proud of.
 
 I know this app might be outdated, doesn’t use a modern framework, or showcase my best coding practices according to software development standards. However, it is very important to me because it was the first application I built with the goal of automating and generalizing repetitive tasks across different segments of code.  
 
