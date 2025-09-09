@@ -16,4 +16,4 @@ Aplicación web desarrollada en **Java** diseñada para fines educativos y de po
 ## ▶️ Cómo ejecutar
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/mi-proyecto-java-web.git
+   git clone https://github.com/jfonsecahn/My-First-WebApp.git
