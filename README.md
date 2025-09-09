@@ -18,7 +18,7 @@ Web application developed in **Java** for educational and portfolio purposes.
    ```bash
    git clone https://github.com/jfonsecahn/My-First-WebApp.git
 
-2. Install Apache Tomcat (version 9 or above recommended)
+2. Install Apache Tomcat (version 8.0.27 or above recommended)
 
     a. Download from: https://tomcat.apache.org/
 
