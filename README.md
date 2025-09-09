@@ -2,6 +2,10 @@
 
 Web application developed in **Java** for educational and portfolio purposes.
 
+I know this app might be outdated, doesn’t use a modern framework, or showcase my best coding practices according to software development standards. However, it is very important to me because it was the first application I built with the goal of automating and generalizing repetitive tasks across different segments of code.
+
+Through this project, I realized that I could save a lot of time by structuring my code into reusable segments, long before the rise of artificial intelligence. I once heard that it’s better to work intelligently than just work hard, and I truly believe that—but I also think both are necessary. By working intelligently, we free up time to work hard on something that can be truly impressive, both for ourselves and for our environment.
+
 ## 📌 Features
 - User management with authentication.
 - CRUD for Operations of the Selected Sector.
